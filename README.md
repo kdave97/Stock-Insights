@@ -67,3 +67,10 @@ Start the pipeline for ELK in Terminal #4:
 cd code
 python train.py
 ```
+
+# Authors
+* Bin Patel
+* Devarsh Shah
+* Karan Dave
+* Neel Parikh
+* Ritesh Ghorse
